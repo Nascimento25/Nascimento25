@@ -10,7 +10,7 @@
 
 
 ![Nascimento25 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nascimento25&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nascimento25)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nascimento25&layout=donut&theme=dracula)](https://github.com/Nascimento25/github-readme-stats)
 ## *I use daily* 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
