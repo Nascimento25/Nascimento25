@@ -43,10 +43,11 @@ const MARCOS = {
 
 <div align="center">
 
-<div align="center">
-<div align="center">
-<div align="center">
+<br>
 
+<img src="./languages.svg" alt="Top Languages" />
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nascimento25/Nascimento25/output/github-snake-dark.svg">
