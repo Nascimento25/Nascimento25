@@ -45,3 +45,13 @@ const MARCOS = {
 
 <div align="center">
 <div align="center">
+<div align="center">
+
+## /// the grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nascimento25/Nascimento25/output/github-snake-dark.svg">
+  <img alt="Gothic GitHub Snake" src="https://raw.githubusercontent.com/Nascimento25/Nascimento25/output/github-snake-dark.svg">
+</picture>
+
+</div>
