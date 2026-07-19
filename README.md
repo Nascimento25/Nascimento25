@@ -1,19 +1,47 @@
-# Hi, I'm Marcos! 
-*Information manager at [Federal University of Pernambuco](https://www.ufpe.br/)*
-<div align="">
-<img src="https://github.com/Nascimento25/Nascimento25/assets/106555356/45d9ecc9-fe08-4bc3-abb3-598600cee507" width="70px" />
+<div align="center">
+
+![golisopod-pokémon](https://github.com/user-attachments/assets/219f0f76-04e8-495a-98ff-d66b196c5535)
+
+# greetings, wanderer. i am marcos.
+
+[![marcosdev.tech](https://img.shields.io/badge/marcosdev.tech-000000?style=for-the-badge&logo=globe&logoColor=FFFFFF)](https://marcosdev.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/marcos-nascimento-632b311b2/)
+
 </div>
 
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-nascimento-632b311b2/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dev_nascimento)
+## _a little about me
 
+i build unique web experiences where heavy code meets visual art. by day i shape data architecture and information systems at the federal university of pernambuco (ufpe). by night i breathe life into pixel art, looped gifs, and anything that blurs the line between machine and dream.
 
-![Nascimento25 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nascimento25&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nascimento25&layout=donut&theme=dracula)](https://github.com/Nascimento25/github-readme-stats)
-## *I use daily* 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark-AR&logoColor=white)
+every line of code is a brushstroke. every animation a signal from the void.
+
+---
+
+<div align="center">
+
+### arsenal
+
+</div>
+
+```javascript
+const MARCOS = {
+    roles: ["Information Manager", "Data Architect", "Developer"],
+    environment: ["Linux"],
+    languages: ["Python", "JavaScript", "SQL"],
+    frontend: ["HTML5", "CSS3"],
+    databases: ["PostgreSQL"],
+    infrastructure: ["Amazon AWS"],
+    creative: ["Spark AR", "Pixel Art Animations"]
+};
+```
+
+<div align="center">
+
+---
+
+<div align="center">
+
+<div align="center">
+<div align="center">
