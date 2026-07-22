@@ -39,10 +39,6 @@ const MARCOS = {
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nascimento25&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8a2be2&text_color=e0e0e0&icon_color=8a2be2)
-
-<img src="./languages.svg" alt="Top Languages" />
-
 </div>
 
 <picture>
